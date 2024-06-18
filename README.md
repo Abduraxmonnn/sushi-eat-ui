@@ -72,7 +72,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/project_html_css_website.git
+git clone [https://github.com/adrianhajdin/project_html_css_website.git](https://github.com/Abduraxmonnn/sushi-eat-ui)
 cd project_html_css_website
 ```
 
